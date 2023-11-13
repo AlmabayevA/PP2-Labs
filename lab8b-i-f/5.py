@@ -1,0 +1,11 @@
+a = (1, 2, 3, False)
+b = (1, 2, 3, 'l', 'R')
+c = (1, 2, 0, 3)
+d = ()
+e = (a)
+print(all(a))
+print(all(b))
+print(all(c))
+print(all(d))
+print(all(e))
+
